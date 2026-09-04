@@ -29,6 +29,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Bruno](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
 - [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relevant tests are conducted with our long running agent setup.
+- [Pemystack Greenlight](https://github.com/pemystack/greenlight-action) - AI-powered test selection GitHub Action. Analyzes PR code changes and runs only relevant tests, cutting CI time by 60-80%. Supports Playwright, Jest, Pytest, Go, and Espresso.
+- [Pemystack Regressor](https://github.com/pemystack/regressor-action) - AI regression detection GitHub Action. Scans every PR against repo history for known bug patterns before merge.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
 - [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
@@ -84,6 +86,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
+- [Pemystack Greenlight](https://github.com/pemystack/greenlight-action) - AI-powered test selection GitHub Action. Analyzes PR code changes and runs only relevant tests, cutting CI time by 60-80%. Supports Playwright, Jest, Pytest, Go, and Espresso.
+- [Pemystack Regressor](https://github.com/pemystack/regressor-action) - AI regression detection GitHub Action. Scans every PR against repo history for known bug patterns before merge.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
